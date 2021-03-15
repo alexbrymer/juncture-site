@@ -4,5 +4,5 @@
 
 # Samples
 
-[Image](simple-image)
-[Map](simple-map)
+- [Image](simple-image)
+- [Map](simple-map)
