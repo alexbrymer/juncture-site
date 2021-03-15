@@ -4,6 +4,7 @@
 <!-- Some config data for the essay -->
 <param ve-config
        title="Wikimedial Commons 2019 Picture of the Year"
+       banner="/images/header.jpg"
        layout="vtl">
 
 ## Wikimedia Commons Picture of the Year 2019
