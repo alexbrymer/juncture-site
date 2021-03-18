@@ -7,8 +7,10 @@
     "repo": "juncture-site",
     "nav": [
         {"label": "About", "icon": "info", "path": "/about"},
-        {"label": "Help", "icon": "question", "path": "/help"}
+        {"label": "Help", "icon": "question", "path": "/help"},
         {"label": "Contributors", "icon": "user-friends", "path": "/contributors"}
-
+    ],
+    "contactEmail": [
+        "ronald.snyder@ithaka.org"
     ]
 }
