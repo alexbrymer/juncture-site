@@ -14,5 +14,12 @@
     "contactEmail": [
         "ronald.snyder@ithaka.org"
     ],
-    "contactSubject": "Juncture feedback"
+    "contactSubject": "Juncture feedback",
+    "feedbackRoles": [
+        "Undergraduate Student",
+        "Graduate Student",
+        "College/University Faculty",
+        "Independent Scholar",
+        "Other"
+    ]
 }
