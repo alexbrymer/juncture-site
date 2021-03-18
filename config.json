@@ -11,15 +11,17 @@
         {"label": "Contributors", "icon": "user-friends", "path": "/contributors"},
         {"label": "Contact Us", "icon": "envelope", "path": "/contact-us"}
     ],
-    "contactEmail": [
-        "ronald.snyder@ithaka.org"
-    ],
-    "contactSubject": "Juncture feedback",
-    "feedbackRoles": [
-        "Undergraduate Student",
-        "Graduate Student",
-        "College/University Faculty",
-        "Independent Scholar",
-        "Other"
-    ]
+    "contactForm": {
+        "toEmail": [
+            "ronald.snyder@ithaka.org"
+        ],
+        "subject": "Juncture feedback",
+        "fromRoles": [
+            "Undergraduate Student",
+            "Graduate Student",
+            "College/University Faculty",
+            "Independent Scholar",
+            "Other"
+        ]
+    }
 }
