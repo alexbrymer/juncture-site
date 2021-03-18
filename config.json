@@ -6,6 +6,9 @@
     "acct": "JSTOR-Labs",
     "repo": "juncture-site",
     "nav": [
-        {"label": "About", "icon": "info", "path": "/about"}
+        {"label": "About", "icon": "info", "path": "/about"},
+        {"label": "Help", "icon": "question", "path": "/help"}
+        {"label": "Contributors", "icon": "user-friends", "path": "/contributors"}
+
     ]
 }
