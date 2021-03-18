@@ -1,0 +1,29 @@
+title: Juncture
+tagline: Visual Essays
+banner: "/images/header.jpg"
+bannerHeight: 400
+acct: JSTOR-Labs
+repo: juncture-site
+nav:
+- label: About
+  icon: info
+  path: "/about"
+- label: Help
+  icon: question
+  path: "/help"
+- label: Contributors
+  icon: user-friends
+  path: "/contributors"
+- label: Contact Us
+  icon: envelope
+  path: "/contact-us"
+contactForm:
+  toEmail:
+  - ronald.snyder@ithaka.org
+  subject: Juncture feedback
+  fromRoles:
+  - Undergraduate Student
+  - Graduate Student
+  - College/University Faculty
+  - Independent Scholar
+  - Other
