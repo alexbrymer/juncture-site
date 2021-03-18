@@ -8,7 +8,8 @@
     "nav": [
         {"label": "About", "icon": "info", "path": "/about"},
         {"label": "Help", "icon": "question", "path": "/help"},
-        {"label": "Contributors", "icon": "user-friends", "path": "/contributors"}
+        {"label": "Contributors", "icon": "user-friends", "path": "/contributors"},
+        {"label": "Contact Us", "icon": "envelope", "path": "/contact-us"}
     ],
     "contactEmail": [
         "ronald.snyder@ithaka.org"
