@@ -1,0 +1,11 @@
+{
+    "title": "Juncture",
+    "tagline": "Visual Essays",
+    "banner": "/images/header.jpg",
+    "bannerHeight": 400,
+    "acct": "JSTOR-Labs",
+    "repo": "juncture-site",
+    "nav": [
+        {"label": "About", "icon": "info", "path": "/about"}
+    ]
+}
