@@ -1,0 +1,3 @@
+# Help placeholder
+
+![](books.jpg)
