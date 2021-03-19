@@ -2,6 +2,8 @@ title: Juncture Site
 tagline: Visual Essays
 banner: "/images/header.jpg"
 bannerHeight: 400
+# When forking the juncture-site repository these fields must be updated to match
+# the account and repository name in the forked repository
 acct: JSTOR-Labs
 repo: juncture-site
 nav:
@@ -17,9 +19,12 @@ nav:
 - label: Contact Us
   icon: envelope
   path: "/contact-us"
+# If the /contact-us path is defined for the nav menu a contact form will be enabled
+# The following information is used in the display and processing of the contact form
+# A valid toEmail address is required. Other fields are optional
 contactForm:
   toEmail:
-  - ronald.snyder@ithaka.org
+  - ronald.snyder@ithaka.org.
   subject: Juncture feedback
   fromRoles:
   - Undergraduate Student
