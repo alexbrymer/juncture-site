@@ -6,8 +6,8 @@ favicon: "/images/favicon.svg"
 
 # When using a custom domain these fields must be updated to match
 # the account and repository name in the forked repository
-acct: JSTOR-Labs
-repo: juncture-site
+#acct: JSTOR-Labs
+#repo: juncture-site
 
 ######################################################
 # Defines options shown in the header  navigation menu
