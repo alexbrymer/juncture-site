@@ -3,17 +3,21 @@
 <param ve-config 
        title="Utica" 
        author="Alex (and hopefully Dianne)" 
-       layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Downtown_Ann_Arbor%2C_2020-05-05.jpg/1024px-Downtown_Ann_Arbor%2C_2020-05-05.jpg">
+       layout="vtl" banner="https://alexbrymer.github.io/juncture-site/images/Utica_WV_banner.jpeg">
 
 # Ann Arbor
 
-<param ve-map center="Q485172" zoom="8">
+<param ve-map center="Q2495519" zoom="8">
 
 ## Overview
 
-<param ve-entity eid="Q12439" title="Detroit">
-<param ve-entity eid="Q485172" title="Ann Arbor">
-<param ve-entity eid="Q871265" title="East Lansing">
+<param ve-entity eid="Q2495519" title="Utica">
+<param ve-entity eid="Q9049730" title="New Hartford">
+<param ve-entity eid="Q6586" title="Rome">
+
+Utica (/ˈjuːtɪkə/ (About this soundlisten)) is a city in the Mohawk Valley and the county seat of Oneida County, New York, United States. The tenth-most-populous city and sixth-most populous metro area in New York, its population was 62,235 in the 2010 U.S. census. Located on the Mohawk River at the foot of the Adirondack Mountains, it is approximately 95 miles (153 kilometers) west-northwest of Albany, 55 mi (89 km) east of Syracuse and 240 mi (386 km) northwest of New York City. Utica and the nearby city of Rome anchor the Utica–Rome Metropolitan Statistical Area comprising all of Oneida and Herkimer Counties.
+<param ve-map primary center="Q2495519" zoom="12" prefer-geojson>
+<param ve-image iiif region="3201,1481,935,1540" url="https://upload.wikimedia.org/wikipedia/commons/c/c0/Utica_97_002.jpg">
 
 Ann Arbor is a city in the U.S. state of Michigan and the county seat of Washtenaw County. The 2010 census recorded its population to be 113,934. It is the principal city of the Ann Arbor Metropolitan Statistical Area, which encompasses all of Washtenaw County. Ann Arbor is also included in the larger Greater Detroit Combined Statistical Area.[^1]
 <param ve-map primary center="Q485172" zoom="12" prefer-geojson>
@@ -34,4 +38,4 @@ Ann Arbor was founded in 1824, named for wives of the village's founders, both n
 
 ## References
 
-[^1]:  https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan
+[^1]:  https://en.wikipedia.org/wiki/Utica,_New_York
