@@ -28,7 +28,7 @@ Utica shares a cuisine with the mid-Atlantic states, with local and regional inf
 ## Alex's Favorite Restaurants
 
 So many great restaurants
-<param ve-map show-labels center="Q2495519" zoom="13">
+<param ve-map show-labels center="Q2495519" zoom="10">
 <param ve-map-layer geojson url="utica-restaurants.json">
 
 ## Dianne's Favorite Restaurants
