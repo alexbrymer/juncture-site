@@ -8,12 +8,19 @@
 
 <!-- ve-entity tags declare entities relevant to the essay -->
 <param ve-entity eid="Q2495519"> <!-- Utica! -->
+<param title="Monceaux" eid="Q1440821">
 
-The cuisine of Utica, NY is not to be missed!  I mean, it's the birthplace of half-moon cookies (not to be confused with the far-inferior black-and-white cookies), what's not to like?
+The cuisine of Utica, NY is not to be missed!  I mean, it's the birthplace of <a href="https://hollandfarms.com/bakery/half-moon-cookies/">half-moon cookies</a> (not to be confused with the far-inferior black-and-white cookies), what's not to like?
+<param ve-image
+       fit="contain"
+       url="https%3A%2F%2Fhollandfarms.com%2Fproduct%2Fhalf-moon-cookies%2F&psig=AOvVaw1Ygo0GDNMc9AT9cOR8L8zp&ust=1616519576507000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCMDy7uqyxO8CFQAAAAAdAAAAABAO"
+       description='Two bulls running while the jockey holds on to them in pacu jawi (from Minangkabau, "bull race"), a traditional bull race in Tanah Datar, West Sumatra, Indonesia. 2015, Final-45.'
+       attribution="Rodney Ee"
+       license="CC BY 2.0">
 
 ## Alex's Picks
-Carmella's, the Phoenician, what else?
-<param ve-map center="Q2495519" zoom="12">
+Carmella's, the Phoenician, Bonamo's, the Horned Dorset, Symeon's, what else?
+<param ve-map center="Q2495519" zoom="11">
 
 ## Dianne's Picks
 (to come)
