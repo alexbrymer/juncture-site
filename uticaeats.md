@@ -9,11 +9,11 @@
 <!-- ve-entity tags declare entities relevant to the essay -->
 <param ve-entity eid="Q2495519"> <!-- Utica! -->
 
-The cuisine of Utica, NY is not to be missed!  Half-moon cookies!  (not 
+The cuisine of Utica, NY is not to be missed!  I mean, it's the birthplace of half-moon cookies (not to be confused with the far-inferior black-and-white cookies), what's not to like?
 
 ## Alex's Picks
 Carmella's, the Phoenician, what else?
-<param ve-map center="Q2495519" zoom="5">
+<param ve-map center="Q2495519" zoom="1">
 
 
 ## Dianne's Picks
