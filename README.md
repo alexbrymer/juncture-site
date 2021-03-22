@@ -15,27 +15,27 @@
 <param ve-entity eid="Q9049730" title="New Hartford">
 <param ve-entity eid="Q6586" title="Rome">
 
-Utica (/ˈjuːtɪkə/ is a city in the Mohawk Valley and the county seat of Oneida County, New York, United States. The tenth-most-populous city and sixth-most populous metro area in New York, its population was 62,235 in the 2010 U.S. census. Located on the Mohawk River at the foot of the Adirondack Mountains, it is approximately 95 miles (153 kilometers) west-northwest of Albany, 55 mi (89 km) east of Syracuse and 240 mi (386 km) northwest of New York City. Utica and the nearby city of Rome anchor the Utica–Rome Metropolitan Statistical Area comprising all of Oneida and Herkimer Counties.
+Utica (/ˈjuːtɪkə/ is a city in the Mohawk Valley and the county seat of Oneida County, New York, United States. The tenth-most-populous city and sixth-most populous metro area in New York, its population was 62,235 in the 2010 U.S. census. Located on the Mohawk River at the foot of the Adirondack Mountains, it is approximately 95 miles (153 kilometers) west-northwest of Albany, 55 mi (89 km) east of Syracuse and 240 mi (386 km) northwest of New York City. Utica and the nearby city of Rome anchor the Utica–Rome Metropolitan Statistical Area comprising all of Oneida and Herkimer Counties. [^1]
 <param ve-map primary center="Q2495519" zoom="12" prefer-geojson>
 <param ve-image iiif region="1,1,521,463" url="https://upload.wikimedia.org/wikipedia/commons/c/c0/Utica_97_002.jpg">
 
-Ann Arbor is a city in the U.S. state of Michigan and the county seat of Washtenaw County. The 2010 census recorded its population to be 113,934. It is the principal city of the Ann Arbor Metropolitan Statistical Area, which encompasses all of Washtenaw County. Ann Arbor is also included in the larger Greater Detroit Combined Statistical Area.[^1]
-<param ve-map primary center="Q485172" zoom="12" prefer-geojson>
-<param ve-image iiif region="3201,1481,935,1540" url="https://upload.wikimedia.org/wikipedia/commons/0/02/Ann_Arbor_Art_Fair%2C_2019.jpg">
+Utica shares a cuisine with the mid-Atlantic states, with local and regional influences. Its melting pot of immigrant and refugee cuisines, including Dutch, Italian, German, Irish and Bosnian, have introduced dishes such as ćevapi and pasticciotti[e] to the community. Utica staple foods include chicken riggies, Utica greens, half-moons,[2] mushroom stew, and tomato pie. Other popular dishes are pierogi, penne alla vodka, and sausage and peppers. Utica has long had ties to the brewing industry. The family-owned Matt Brewing Company resisted the bankruptcies and plant closings that came with the industry consolidation under a few national brands. As of 2012, it was ranked the 15th-largest brewery by sales in the United States.
+<param ve-image
+       fit="contain"
+       url="https://www.syracuse.com/resizer/tINgX5QXGBAQWCbtbrmheNep3FE=/700x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/expo.advance.net/img/c9b2ccbadd/width2048/e5d_hemstroughtsbakeriesutica3.jpeg"
+       description='Yum.'>
 
-Ann Arbor is home to the University of Michigan. The university significantly shapes Ann Arbor's economy as it employs about 30,000 workers, including about 12,000 in the medical center. The city's economy is also centered on high technology, with several companies drawn to the area by the university's research and development infrastructure. Another university near by is East Lansing.
-<param ve-map center="Q871265" zoom="12">
-
-## Restaurants
+## Alex's Favorite Restaurants
 
 Mani Osteria is a favorite restaurant in Ann Arbor probably most well-known for their wood oven pizza.  I'm also a big fan of their many unique appetizers and desserts.  If you have a chance to visit Mani check our their pickled tomatoes and Califlower Friti.  
-<param ve-map show-labels center="Q485172" zoom="16">
+<param ve-map show-labels center="Q2495519" zoom="16">
 <param ve-map-layer geojson url="ann-arbor-restaurants.json">
 
-## Founded
+## Dianne's Favorite Restaurants
 
-Ann Arbor was founded in 1824, named for wives of the village's founders, both named Ann, and the stands of bur oak trees. The University of Michigan moved from Detroit to Ann Arbor in 1837, and the city grew at a rapid rate in the early to mid-20th century. During the 1960s and 1970s, the city gained a reputation as a center for left-wing politics. Ann Arbor became a focal point for political activism, such as opposition to the Vietnam War and support for the legalization of cannabis.
+(to be written)
 
 ## References
 
 [^1]:  https://en.wikipedia.org/wiki/Utica,_New_York
+[^2]: Half moon cookies are not to be confused with the far-inferior black-and-white cookies <a href="https://www.youtube.com/watch?v=dR9wi3q6d8o>about which Seinfeld rhapsodized</a>.
