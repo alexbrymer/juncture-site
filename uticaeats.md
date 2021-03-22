@@ -17,7 +17,7 @@
 <!-- 43.10243394883792, -75.2995955732846 Symeon's -->
 
 
-The cuisine of Utica, NY is not to be missed!  I mean, it's the birthplace of <a href="https://hollandfarms.com/bakery/half-moon-cookies/">half-moon cookies</a>, what's not to like?  (NB: half moon cookies are not to be confused with the far-inferior black-and-white cookies.)
+The cuisine of Utica, NY is not to be missed.  It's the birthplace of <a href="https://hollandfarms.com/bakery/half-moon-cookies/">half-moon cookies</a>, what's not to like?  (NB: half moon cookies are not to be confused with the far-inferior black-and-white cookies.)
 <param ve-image
        fit="contain"
        url="https://www.syracuse.com/resizer/tINgX5QXGBAQWCbtbrmheNep3FE=/700x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/expo.advance.net/img/c9b2ccbadd/width2048/e5d_hemstroughtsbakeriesutica3.jpeg"
