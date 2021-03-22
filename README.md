@@ -5,7 +5,7 @@
 
 This Github repository provides a set of starter files for easily generating a `Juncture` web site for managing visual essays.
 
-# Waht is Juncture?
+# What is Juncture?
 
 [Juncture](https://essays.juncture-digital.org) is a free service for easily turning a simple text file into an engaging `visual essay`.  A visual essay is an interactive web page that enriches a text narrative with visual elements to provide depth and context.  Juncture does not require special tooling or technical expertise.  It uses the free Github site for hosting and managing the visual essay text files.
 
@@ -17,11 +17,11 @@ In addition to converting single text files into visual narratives, Juncture can
 
 The only prerequisite for using Juncture is access to a Github account.  Github is a site commonly used for managing files on the web.  Github has many advanced features for managing and tracking multiple versions of files and is popular with individuals and teams developing open source software.  While the version management capabilities in Github are quite useful and can be used with visual essays, in the typical case it is only used as simple file hosting service, similar to how Dropbox or Google Drive might be used for managing documents and photographs.
 
-If you don't yet have a Github account a free one can be created at https://github.com.
+If you don't yet have a Github account a free one can be created at [https://github.com](https://github.com).
 
 ## Create a Github repository for your visual essays
 
-After creating and signing in to your Github account select the option for creating a new repository.  This should appear as a green _New_ button.  After clicking the new repository button a form will be displayed allowing for a repository name and (optiona) description to be provided.  Other options are also available in the creation form.  The repository name can be anything you choose.  In this example will be using _essays_.  After entering a repository name and description ensure the _public_ and _Add a README file_ options are selected and press the green _Create Repository_ button.  That's it, we now have a place to store visual essays and a first skeletal essay (the automatically created _README.md_ file).
+After creating and signing in to your Github account select the option for creating a new repository.  This should appear as a green _New_ button.  After clicking the new repository button a form will be displayed allowing for a repository name and (optional) description to be provided.  Other options are also available in the creation form.  The repository name can be anything you choose.  In this example will be using _essays_.  After entering a repository name and description ensure the _public_ and _Add a README file_ options are selected and press the green _Create Repository_ button.  That's it, we now have a place to store visual essays and a first skeletal essay (the automatically created _README.md_ file).
 
 ## Creating a simple visual essay
 
@@ -35,8 +35,8 @@ For many users creating and using stand-alone visual essays is sufficient.  The 
 
 ### 1. Create a copy of the Juncture site template
 
-First, ensure that you have signed into your Github account.  Then, navigate to the Github repository containing the Juncture site template repository at https://github.com/JSTOR-Labs/juncture-site.  At the top-right of this page press the
-_Fork_ button.  _Forking_ a repository creates an exact copy in your personal Gitnub account.  The copy will be created with the same repository name as the original (in this case, _juncture-site_) but can easily be changed in the copied version. 
+First, ensure that you have signed into your Github account.  Then, navigate to the Github repository containing the Juncture site template repository at [https://github.com/JSTOR-Labs/juncture-site](https://github.com/JSTOR-Labs/juncture-site).  At the top-right of this page press the
+_Fork_ button.  _Forking_ a repository creates an exact copy in your personal Github account.  The copy will be created with the same repository name as the original (in this case, _juncture-site_) but can easily be changed in the copied version. 
 
 ### 2. Update site configuration file
 
@@ -44,7 +44,7 @@ A configuration file provided in the template allows of easy customization of th
 
 ### 3. Optional: Configure site as a Github Pages site
 
-_Github Pages_ is an option provided in Github for converting a repository into a simple web site.  When configuring a repository to use Github Pages the base URL for a web site will be of the form https://GITHUB_ACCOUNT.github.io/REPOSITORY_NAME where _GITHUB_ACCOUNT_ is your Github account/username and _REPOSITORY_NAME_ is the name of the Github repository used.
+_Github Pages_ is an option provided in Github for converting a repository into a simple web site.  When configuring a repository to use Github Pages the base URL for a web site will be of the form `https://GITHUB_ACCOUNT.github.io/REPOSITORY_NAME` where _GITHUB_ACCOUNT_ is your Github account/username and _REPOSITORY_NAME_ is the name of the Github repository used.
 
 Configuring a repository to use Github Pages is accomplished in the _Settings_ page available from the repository home page.
 
