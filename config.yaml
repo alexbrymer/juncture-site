@@ -1,23 +1,22 @@
 title: Juncture
-banner: "https://picsum.photos/1000/400"
-bannerHeight: 400
-favicon: "/images/favicon.svg"
+banner: https://picsum.photos/1000/400
+favicon: /images/favicon.svg
 
 # When using a custom domain these fields must be updated to match
 # the account and repository name
-#acct: JSTOR-Labs
-#repo: juncture-site
+#acct: YOUR_GITHUB_USERNAME
+#repo: YOUR_GITHUB_REPOSITORY_NAME
 
 ######################################################
-# Defines options shown in the header  navigation menu
+# Defines options shown in the header navigation menu
 ######################################################
 nav:
 - label: About
   icon: info
-  path: "/about"
+  path: /about
 - label: Help
   icon: question
-  path: "/help"
+  path: /help
 #- label: Contact Us
 #  icon: envelope
 #  path: "/contact-us"
@@ -28,10 +27,4 @@ nav:
 #contactForm:
 #  toEmail:
 #  - name@example.org
-#  subject: Juncture feedback
-#  fromRoles:
-#  - Undergraduate Student
-#  - Graduate Student
-#  - College/University Faculty
-#  - Independent Scholar
-#  - Other
+#  subject: My Juncture site feedback
