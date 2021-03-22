@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Hemstroughts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.25207725099554,
+          43.09666863217048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Carmella's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.31793481561287,
+          43.07968190762451
+        ]
+      }
+    }
+  ]
+}
