@@ -42,6 +42,6 @@ And if you're willing to travel a bit, the Horned Dorset Inn is fine French cuis
 ## References
 
 [^1]:  https://en.wikipedia.org/wiki/Utica,_New_York
-[^2]: Half moon cookies are not to be confused with the far-inferior black-and-white cookies <a href="https://www.youtube.com/watch?v=dR9wi3q6d8o>about which Seinfeld rhapsodized</a>.
+[^2]: Half moon cookies are not to be confused with the far-inferior black-and-white cookies <a href="https://www.youtube.com/watch?v=dR9wi3q6d8o">about which Seinfeld rhapsodized</a>.
 [^3]: The farm is now being managed by its fourth generation of Humphreys (my cousins).
 [^4]: I haven't lived in the area for twenty five years, so these recommendations are of the oldy-but-goody variety.
