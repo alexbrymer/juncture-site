@@ -27,9 +27,9 @@ Utica shares a cuisine with the mid-Atlantic states, with local and regional inf
 
 ## Alex's Favorite Restaurants
 
-Mani Osteria is a favorite restaurant in Ann Arbor probably most well-known for their wood oven pizza.  I'm also a big fan of their many unique appetizers and desserts.  If you have a chance to visit Mani check our their pickled tomatoes and Califlower Friti.  
+So many great restaurants
 <param ve-map show-labels center="Q2495519" zoom="16">
-<param ve-map-layer geojson url="ann-arbor-restaurants.json">
+<param ve-map-layer geojson url="utica-restaurants.json">
 
 ## Dianne's Favorite Restaurants
 
