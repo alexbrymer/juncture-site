@@ -1,5 +1,5 @@
 <!-- This just provides a convenient way for viewing the visual essay, it is not actually needed in the essay -->
-<a href="https://essays.juncture-digital.org"><img src="https://jstor-labs.github.io/juncture.images/ve-button.png"></a>
+<a href="https://essays.juncture-digital.org"><img src="https://alexbrymer.github.io/juncture-site/images/Utica_WV_banner.jpeg"></a>
 
 <!-- Essay configuration -->
 <param ve-config
