@@ -8,9 +8,9 @@
        layout="vtl">
 
 <!-- ve-entity tags declare entities relevant to the essay -->
-<param ve-entity eid="Q64"> <!-- Berlin -->
+<param ve-entity eid="Q614184"> <!-- Berlin -->
 
 ## Berlin
 
 Berlin is the capital and largest city of Germany by both area and population. Its 3,769,495 inhabitants as of 31 December 2019 make it the most populous city of the European Union, according to population within city limits. The city is also one of Germany's 16 federal states. It is surrounded by the state of Brandenburg, and contiguous with Potsdam, Brandenburg's capital. The two cities are at the center of the Berlin-Brandenburg capital region, which is, with about six million inhabitants and an area of more than 30,000 km2, Germany's third-largest metropolitan region after the Rhine-Ruhr and Rhine-Main regions.
-<param ve-map center="Q64" zoom="5"> <!-- The ve-map tag creates a map visualization component -->
+<param ve-map center="Q614184" zoom="5"> <!-- The ve-map tag creates a map visualization component -->
