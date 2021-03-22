@@ -19,7 +19,7 @@ Utica (/ˈjuːtɪkə/ is a city in the Mohawk Valley and the county seat of Onei
 <param ve-map primary center="Q2495519" zoom="12" prefer-geojson>
 <param ve-image iiif region="1,1,521,463" url="https://upload.wikimedia.org/wikipedia/commons/c/c0/Utica_97_002.jpg">
 
-Utica shares a cuisine with the mid-Atlantic states, with local and regional influences. Its melting pot of immigrant and refugee cuisines, including Dutch, Italian, German, Irish and Bosnian, have introduced dishes such as ćevapi and pasticciotti[e] to the community. Utica staple foods include chicken riggies, Utica greens, half-moons,[2] mushroom stew, and tomato pie. Other popular dishes are pierogi, penne alla vodka, and sausage and peppers. Utica has long had ties to the brewing industry. The family-owned Matt Brewing Company resisted the bankruptcies and plant closings that came with the industry consolidation under a few national brands. As of 2012, it was ranked the 15th-largest brewery by sales in the United States.
+Utica shares a cuisine with the mid-Atlantic states, with local and regional influences. Its melting pot of immigrant and refugee cuisines, including Dutch, Italian, German, Irish and Bosnian, have introduced dishes such as ćevapi and pasticciotti to the community. Utica staple foods include chicken riggies, Utica greens, half-moons,[2] mushroom stew, and tomato pie. Other popular dishes are pierogi, penne alla vodka, and sausage and peppers. Utica has long had ties to the brewing industry. The family-owned Matt Brewing Company resisted the bankruptcies and plant closings that came with the industry consolidation under a few national brands. As of 2012, it was ranked the 15th-largest brewery by sales in the United States.
 <param ve-image
        fit="contain"
        url="https://www.syracuse.com/resizer/tINgX5QXGBAQWCbtbrmheNep3FE=/700x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/expo.advance.net/img/c9b2ccbadd/width2048/e5d_hemstroughtsbakeriesutica3.jpeg"
@@ -28,7 +28,7 @@ Utica shares a cuisine with the mid-Atlantic states, with local and regional inf
 ## Alex's Favorite Restaurants
 
 So many great restaurants
-<param ve-map show-labels center="Q2495519" zoom="16">
+<param ve-map show-labels center="Q2495519" zoom="13">
 <param ve-map-layer geojson url="utica-restaurants.json">
 
 ## Dianne's Favorite Restaurants
