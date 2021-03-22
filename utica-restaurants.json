@@ -1,6 +1,19 @@
 {
   "type": "FeatureCollection",
   "features": [
+     {
+      "type": "Feature",
+      "properties": {
+        "label": "The Grapevine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.29664510205549,
+          3.077137670838695
+        ]
+      }
+    },   
     {
       "type": "Feature",
       "properties": {
@@ -43,7 +56,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "Bonnamo's"
+        "label": "Bonomo's"
       },
       "geometry": {
         "type": "Point",
