@@ -4,6 +4,58 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Humphreys Farms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.31586177380078,
+          43.04928550567643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Symeon's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2995955732846,
+          43.10243394883792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Phoenician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.27671975979375,
+          43.093079633995664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Bonnamo's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3848190021217,
+          43.07840882976337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "The Horned Dorset"
       },
       "geometry": {
