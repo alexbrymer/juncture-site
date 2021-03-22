@@ -4,11 +4,7 @@
 	  title="Eating in Utica"
 	  source-image="https://alexbrymer.github.io/juncture-site/images/Utica_WV_banner.jpeg"
 	  banner="https://alexbrymer.github.io/juncture-site/images/Utica_WV_banner.jpeg"
-
-<!-- Essay configuration -->
-<param ve-config
-       title="Example"
-       layout="vertical">
+          layout="vertical">
 
 <!-- ve-entity tags declare entities relevant to the essay -->
 <param ve-entity eid="Q2495519"> <!-- Utica! -->
