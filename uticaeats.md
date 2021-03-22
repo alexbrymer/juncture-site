@@ -9,6 +9,13 @@
 <!-- ve-entity tags declare entities relevant to the essay -->
 <param ve-entity eid="Q2495519"> <!-- Utica! -->
 
+<!-- 43.09666863217048, -75.25207725099554  Hemstroughts -->
+<!-- 43.07968190762451, -75.31793481561287 Carmella's -->
+<!-- 42.80930606782463, -75.25250231747623 Horned Dorset -->
+<!-- 43.07840882976337, -75.3848190021217 Bonnamo's -->
+<!-- 43.093079633995664, -75.27671975979375 Phoenician-->
+<!-- 43.10243394883792, -75.2995955732846 Symeon's -->
+
 
 The cuisine of Utica, NY is not to be missed!  I mean, it's the birthplace of <a href="https://hollandfarms.com/bakery/half-moon-cookies/">half-moon cookies</a> (not to be confused with the far-inferior black-and-white cookies), what's not to like?
 <param ve-image
