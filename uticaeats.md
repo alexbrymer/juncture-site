@@ -13,6 +13,8 @@
 <!-- 43.07840882976337, -75.3848190021217 Bonnamo's -->
 <!-- 43.093079633995664, -75.27671975979375 Phoenician-->
 <!-- 43.10243394883792, -75.2995955732846 Symeon's -->
+<!-- 43.04928550567643, -75.31586177380078 Humphreys Farms-->
+
 
 
 The cuisine of Utica, NY is not to be missed.  It's the birthplace of <a href="https://hollandfarms.com/bakery/half-moon-cookies/">half-moon cookies</a>, what's not to like?  (NB: half moon cookies are not to be confused with the far-inferior black-and-white cookies.)
