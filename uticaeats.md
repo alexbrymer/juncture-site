@@ -13,7 +13,7 @@ The cuisine of Utica, NY is not to be missed!  I mean, it's the birthplace of ha
 
 ## Alex's Picks
 Carmella's, the Phoenician, what else?
-<param ve-map center="Q2495519" zoom="9">
+<param ve-map center="Q2495519" zoom="10">
 
 
 ## Dianne's Picks
