@@ -64,8 +64,8 @@ The web site home page is defined in the `README.md` file (this file) located in
 
 This site template includes a couple of example visual essays, one using the single file approach that is typically used for creating simple essays, and another essay using the folder convention which is often used when creating essays when custom images and other resources are used.
 
-- [Sample essay 1](/sample-essay-1) - This sample essay is defined using a single Markdown file.  
-- [Sample essay 2](/sample-essay-2) - This sample essay is defined using folder enabling custom resource files (images, map overlays, etc) to be easily grouped with the essay text (in a README.md Markdown file).
+- [Sample essay 1](/example-essay-1) - This sample essay is defined using a single Markdown file.  
+- [Sample essay 2](example-essay-2) - This sample essay is defined using folder enabling custom resource files (images, map overlays, etc) to be easily grouped with the essay text (in a README.md Markdown file).
 
 ## Sample site info files
 
