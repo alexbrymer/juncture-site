@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+{
+      "type": "Feature",
+      "properties": {
+        "label": "The Horned Dorset"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.25250231747623,
+          42.80930606782463
+        ]
+      }
+    }
+  ]
+}
