@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Utica" 
-       author="Alex (and hopefully Dianne)" 
+       author="Alex and Dianne" 
        layout="vtl" banner="https://alexbrymer.github.io/juncture-site/images/Utica_WV_banner.jpeg">
 
 <param ve-entity eid="Q2495519" title="Utica">
