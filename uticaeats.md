@@ -9,6 +9,7 @@
 <param ve-entity eid="Q9049730" title="New Hartford">
 <param ve-entity eid="Q6586" title="Rome">
 <param eid="Q4938349" title="Boilermaker" aliases="Utica Boilermaker">
+<param eid="Q6788388" title="Matt Brewing Company">
 
 # Eating in Utica
 
