@@ -33,7 +33,7 @@ My family has deep, foody roots in the Utica region: in 1904 my great-grandfathe
 <param ve-map show-labels center="Q2030937" zoom="12">
 <param ve-map-layer geojson url="utica-restaurants.json">
 
-And if you're willing to travel a bit, the Horned Dorset Inn is fine French cuisine in beautiful surroundings -- we've celebrated many an annniversary and birthday there.
+And if you're willing to travel a bit, the Horned Dorset Inn is fine French cuisine in beautiful surroundings -- we've celebrated many an anniversary and birthday there.
 <param ve-map show-labels center="Q6526148" zoom="16">
 <param ve-map-layer geojson url="utica-restaurants2.json">
 
