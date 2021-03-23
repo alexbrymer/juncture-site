@@ -1,1 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Holland Farms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.27165437940891,
+          43.113661984233424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Florentine Pastry Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2181698487155,
+          43.09894849914086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Voss's Bar-B-Q"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.28112055056667,
+          43.114564917794134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Waterville Standard Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3781195431654,
+          42.931103074321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "O'Scugnizzo's Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -75.21952183945699,
+          43.098996857637225
+        ]
+      }
+    }
+  ]
+}
 
