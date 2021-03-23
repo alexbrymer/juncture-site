@@ -65,6 +65,19 @@
           43.098996857637225
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Eddie's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.72863821478178,
+          43.19946208987718
+        ]
+      }
     }
   ]
 }
