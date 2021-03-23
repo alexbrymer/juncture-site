@@ -38,8 +38,9 @@ And if you're willing to travel a bit, the Horned Dorset Inn is fine French cuis
 <param ve-map-layer geojson url="utica-restaurants2.json">
 
 ## Dianne's Favorite Restaurants
-
-(to be written)
+My Utica dining recommendations are as follows:  We are <a href="https://hollandfarms.com/">Holland Farms</a> Half Moon cookie people all the way! Never Hemstroughts---only Holland Farms. It's a religious conviction. I've had them shipped in large quantities to the University of Utah and to the Mellon Foundation. I strongly believe in only eating the chocolate base version. We eat them at weddings, birthdays, funerals, and all times in between. The <a href="https://www.florentinepastry.com/">Florentine Pastry Shop</a> in downtown Utica is a gem, been around for nearly 100 years:   <a href="https://www.yelp.com/biz/voss-bar-b-q-yorkville">Voss's Bar-B-Q</a> is a summer must. It's a tiny little place with picnic tables outside, super inexpensive and fun. It's on Oriskany Rd in Yorkville.  We recently discovered another amazing bakery that is fairly new in Waterville: The Waterville Standard Bakery. It's amazing. Yes, you are seeing a sweet tooth trend here. Most of the Italian we've had that we really like is in Syracuse---haven't had as much in Utica and environs lately. But Utica Greens and Chicken Riggies are a must. For food that's not really very good, but for a place that holds a lot of sentimental value for Larry's family, we go to Eddie's on Sylvan Beach. Food's really kind of bad, but it's just a lot of memories...  Larry also has fond memories of <a href="https://uticapizza.com/">O'Scugnizzo's pizza</a>.
+<param ve-map show-labels center="Q2030937" zoom="12">
+<param ve-map-layer geojson url="utica-restaurants3.json">
 
 ## References
 
